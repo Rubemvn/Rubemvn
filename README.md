@@ -1,4 +1,4 @@
-### Hi there 👋
+﻿## Olá, Me chamo Rúbem Vieira 
 
 <!--
 **Rubemvn/Rubemvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ 
+ ![Rúbem Vieira Status](https://github-readme-stats.vercel.app/api?username=rubemvn&show_icons=true&theme=tokyonight)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rubemvn&layout=compact&theme=tokyonight)](https://github.com/rubemvn/github-readme-stats)
