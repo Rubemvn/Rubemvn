@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="x-icon" href="./images/icons/New-R-2-icon-browser-tab.png">
+    <title>Rúbem Vieira</title>
+    <!-- FONTES -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@200;300;400&display=swap" rel="stylesheet">
+    <!-- STYLES -->
+    <link rel="stylesheet" href="./styles/homePage.css">
+</head>
+
+<body>
+
+    <!-- CONTAINER com todo o conteúdo da Página -->
+    <div class="content">
+        <!-- Barra de navegação -->
+        <nav class="navBar">
+            <!-- Icon -->
+            <div class="navBarLogo">
+                <a href="https://rubemvn.github.io">
+                    <img id src="./images/icons/New-R-2-icon.png" alt="logo-R">
+                </a>
+            </div>
+            <!-- Fim dos Icons -->
+
+            <!-- Options -->
+            <div class="navBarOptions">
+                <a href="#">Sobre Mim</a>
+                <a href="#">Projetos</a>
+                <a href="#">Certificados</a>
+                <a href="#">Contato</a>
+            </div>
+            <!-- Fim de Options -->
+        </nav>
+        <!-- Fim da Barra de navegação -->
+
+        <!-- Apresentação -->
+        <section class="welcomeScreen">
+            <div class="containerWelcomeMessage">
+                <h1 id="welcomeMessage">Olá, sou<br>Rúbem Vieira</h1>
+                <h2>Desenvolvedor Front-end</h2>
+                <div class="welcomeButtons">
+                    <button class="button" id="Github" onclick="redirectToGithub()">GitHub</button>
+                    <a id="linkedIn" href="#">LinkedIn</a>
+                </div>
+            </div>
+            <img id="imgLaptopDev" src="./images/content/DEV-02.png" alt="NotebookDev">
+        </section>
+        <!-- Fim da Apresentação -->
+
+        <!-- Sobre mim -->
+        <section class="aboutMe">
+            <h2>Sobre Mim</h2>
+            <p>
+                Comecei no mundo da programação no ensino médio em 2017, mas resolvi me dedicar e estudar na área no
+                início de 2022, desde então, venho sempre buscando consolidar meus conhecimentos e inovar através de
+                projetos pessoais.
+                Sempre fui apaixonado por tecnologia, soluções, inovações e aprendizado contínuo. Nesse ano de 2023
+                iniciei mais uma etapa como aluno da faculdade Descomplica Digital no curso de Análise e Desenvolvimento
+                de Sistemas.
+
+            </p>
+            <div class="myContact">
+                <div class="cardContact">
+                    <div class="animatedCircle">
+                        <div class="innerCircle"></div>
+                    </div>
+                    <p><b>Nome Completo</b></p>
+                    <p>Rúbem Vieira Nunes</p>
+                </div>
+                <div class="cardContact">
+                    <div class="animatedCircle">
+                        <div class="innerCircle"></div>
+                    </div>
+                    <p><b>E-mail</b></p>
+                    <p>rubemvn17@gmail.com</p>
+                </div>
+                <div class="cardContact">
+                    <div class="animatedCircle">
+                        <div class="innerCircle"></div>
+                    </div>
+                    <p><b>Github</b></p>
+                    <p>@Rubemvn</p>
+                </div>
+                <div class="cardContact">
+                    <div class="animatedCircle">
+                        <div class="innerCircle"></div>
+                    </div>
+                    <p><b>Celular</b></p>
+                    <p>(86)99933-2609</p>
+                </div>
+            </div>
+        </section>
+        <!-- Fim de Sobre mim -->
+
+        <!-- Oque eu Faço -->
+        <section class="iAmContainer">
+            <h2>Oque eu faço</h2>
+            <div class="skills">
+                <div class="cardiAm vanillaTilt">
+                    <div class="cardiAmContent">
+                        <img src="./images/icons/designer-de-web (2).png" alt="">
+                        <p>Software<br>Development</p>
+                    </div>
+                    <div class="animatedBar"></div>
+                </div>
+                <div class="cardiAm vanillaTilt">
+                    <div class="cardiAmContent">
+                        <img src="./images/icons/www.png" alt="">
+                        <p>Web<br>Development</p>
+                    </div>
+                    <div class="animatedBar"></div>
+                </div>
+                <div class="cardiAm vanillaTilt">
+                    <div class="cardiAmContent">
+                        <img src="./images/icons/classificacao.png" alt="">
+                        <p>Software<br>Student</p>
+                    </div>
+                    <div class="animatedBar"></div>
+                </div>
+            </div>
+        </section>
+        <!-- Fim de Oque eu Faço -->
+
+        <!-- My Skills -->
+        <section class="mySkills">
+            <h2>Minhas Skills</h2>
+            <div class="contentSkills">
+                <div class="cardSkill vanillaTilt">
+                    <img src="./images/icons/html.svg" alt="">
+                    <p>HTML</p>
+                </div>
+                <div class="cardSkill vanillaTilt">
+                    <img src="./images/icons/css.svg" alt="">
+                    <p>CSS</p>
+                </div>
+                <div class="cardSkill vanillaTilt">
+                    <img src="./images/icons/js.svg" alt="">
+                    <p>JavaScript</p>
+                </div>
+                <div class="cardSkill vanillaTilt">
+                    <img src="./images/icons/node.svg" alt="">
+                    <p>Node</p>
+                </div>
+                <div class="cardSkill vanillaTilt">
+                    <img src="./images/icons/git.svg" alt="">
+                    <p>Git</p>
+                </div>
+                <div class="cardSkill vanillaTilt">
+                    <img src="./images/icons/github.svg" alt="">
+                    <p>GitHub</p>
+                </div>
+            </div>
+        </section>
+        <!-- Fim de My Skills -->
+
+        <!-- Contact Me -->
+        <section class="contactMe">
+            <h2>Entre em contato</h2>
+            <div class="form">
+                <div>
+                    <input type="text" placeholder="Nome" class="contactInput">
+                    <input type="text" placeholder="Sobrenome" class="contac    tInput">
+                    <input type="text" placeholder="Endereço de e-mail" class="contactInput">
+                    <input type="text" placeholder="Número de celular" class="contactInput">
+                </div>
+                <textarea id="message" placeholder="Mensagem"></textarea>
+            </div>
+            <button class="button">ENVIAR</button>
+        </section>
+        <!-- Fim de Contact Me -->
+
+        <footer class="footer">
+            <p>© rubemvieira - Todos os direitos reservados</p>
+        </footer>
+    </div>
+
+    <script type="text/javascript" src="./scripts/vanilla-tilt.js"></script>
+    <script src="./scripts/script.js"></script>
+</body>
