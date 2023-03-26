@@ -6,14 +6,15 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🤔 Estou procurando ajuda com node.js
+- 📫 Contate-me pelo e-mail: rubemvn17@gmail.com
 -->
 
 - 🌱 Atualmente estou estudando node.js
-- 🤔 Estou procurando ajuda com node.js
-- 📫 Contate-me pelo e-mail: rubemvn17@gmail.com
+- 📚 Curso ADS na faculdade Descomplica Digital
 
+Comecei no mundo da programação no ensino médio em 2017, mas resolvi me dedicar e estudar na área no início de 2022, desde então, venho sempre buscando consolidar meus conhecimentos e inovar através de projetos pessoais.
 ##
-
 ![Rúbem Vieira Status](https://github-readme-stats.vercel.app/api?username=rubemvn&show_icons=true&theme=tokyonight)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rubemvn&layout=compact&theme=tokyonight)](https://github.com/rubemvn/github-readme-stats)
 
