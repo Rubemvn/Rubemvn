@@ -40,6 +40,10 @@
 
 ##
 
+<!--
 ![snake gif](https://github.com/Rubemvn/Rubemvn/blob/output/github-contribution-grid-snake.svg)
+
+
+-->
 
           
