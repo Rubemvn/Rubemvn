@@ -11,7 +11,7 @@
 -->
 
 - 🌱 Atualmente estou estudando node.js
-- 📚 Curso ADS na faculdade Descomplica Digital
+- 📚 Estou cursando ADS na faculdade Descomplica Digital
 
 Comecei no mundo da programação no ensino médio em 2017, mas resolvi me dedicar e estudar na área no início de 2022, desde então, venho sempre buscando consolidar meus conhecimentos e inovar através de projetos pessoais.
 ##
