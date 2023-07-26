@@ -10,7 +10,7 @@
 - 📫 Contate-me pelo e-mail: rubemvn17@gmail.com
 -->
 
-- 🌱 Atualmente estou estudando node.js
+- 🌱 Atualmente estou estudando node.js e react.js
 - 📚 Estou cursando ADS na faculdade Descomplica Digital
 
 Comecei no mundo da programação no ensino médio em 2017, mas resolvi me dedicar e estudar na área no início de 2022, desde então, venho sempre buscando consolidar meus conhecimentos e inovar através de projetos pessoais.
@@ -22,9 +22,10 @@ Comecei no mundo da programação no ensino médio em 2017, mas resolvi me dedic
 
   <div style="display: inline; gap:20px">
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img height="30" width="30" src="https://img.icons8.com/glyph-neue/64/FFFFFF/github.png"/>
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
