@@ -10,7 +10,7 @@
 - 📫 Contate-me pelo e-mail: rubemvn17@gmail.com
 -->
 
-- 🌱 Atualmente estou estudando react e nextJs
+- 🌱 Atualmente estou estudando TypeScript e Styled Components
 - 📚 Estou cursando ADS na faculdade Descomplica Digital
   
 Comecei no mundo da programação no ensino médio em 2017, mas resolvi me dedicar e estudar na área no início de 2022, desde então, venho sempre buscando consolidar meus conhecimentos e inovar através de projetos pessoais. Recentemente recebi uma proposta desafiadora, porém empolgante: desenvolver um sistema de Gerenciamento de Estoque, para empresa que eu trabalho. Nesse projeto sou resposável pelo  Ui e Front-end, onde as principais tecnologias que uso são: ReactJs, NextJs, JavaScript, Css, Git, GitHub, Zustand, Figma.
