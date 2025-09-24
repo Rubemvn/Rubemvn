@@ -10,7 +10,7 @@
 - 📫 Contate-me pelo e-mail: rubemvn17@gmail.com
 -->
 
-- 🌱 Atualmente estou estudando TypeScript e Styled Components
+- 🌱 Atualmente estou estudando Django Rest
 - 📚 Estou cursando ADS na faculdade Descomplica Digital
   
 Comecei no mundo da programação no ensino médio em 2017, mas resolvi me dedicar e estudar na área no início de 2022, desde então, venho sempre buscando consolidar meus conhecimentos e inovar através de projetos pessoais. Recentemente recebi uma proposta desafiadora, porém empolgante: desenvolver um sistema de Gerenciamento de Estoque, para empresa que eu trabalho. Nesse projeto sou resposável pelo  Ui e Front-end, onde as principais tecnologias que uso são: ReactJs, NextJs, JavaScript, Css, Git, GitHub, Zustand, Figma.
@@ -23,8 +23,12 @@ Comecei no mundo da programação no ensino médio em 2017, mas resolvi me dedic
 
   <div style="display: inline; gap:20px">
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />                    
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />      
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />      
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -34,7 +38,7 @@ Comecei no mundo da programação no ensino médio em 2017, mas resolvi me dedic
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
     <img height="30" src="https://img.icons8.com/color/96/FFFFFF/express-js.png"/>
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" />        
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" />
   </div>
  
  ##
