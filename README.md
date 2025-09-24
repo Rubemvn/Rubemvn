@@ -10,7 +10,7 @@
 - 📫 Contate-me pelo e-mail: rubemvn17@gmail.com
 -->
 
-- 🌱 Atualmente estou estudando Django Rest
+- 🌱 Atualmente estou estudando DjangoREST e PostgreSQL
 - 📚 Estou cursando ADS na faculdade Descomplica Digital
   
 Sou Desenvolvedor Fullstack, com foco em desenvolvimento web, atuando tanto no front-end quanto no back-end. Possuo experiência prática no desenvolvimento de sistemas para o setor de e-commerce, utilizando tecnologias como Next.js, React, Python, Django REST e PostgreSQL, entre outras. Gosto de criar interfaces intuitivas e funcionais, sempre alinhadas às necessidades do usuário e aos objetivos do negócio. Busco evoluir constantemente como profissional, aprendendo novas tecnologias e boas práticas, e contribuindo para projetos que tenham impacto real. Objetivo:Atuar em projetos desafiadores que me permitam crescer tecnicamente, colaborar com equipes de tecnologia e entregar soluções eficientes e bem construídas.
