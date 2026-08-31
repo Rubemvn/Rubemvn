@@ -23,10 +23,10 @@
 nome:      Rúbem Vieira
 cargo:     Desenvolvedor Fullstack
 foco:      E-commerce de alto volume
-backend:   Python · Django REST · Celery · Kafka · PostgreSQL
+backend:   Python · Django REST · Celery · PostgreSQL · Redis Cache
 frontend:  React · Next.js · TypeScript · MUI
 infra:     AWS · Docker · Kubernetes · ArgoCD
-estudando: [PostgreSQL avançado, Kubernetes, DDD]
+estudando: [PostgreSQL avançado, Kubernetes, DDD, DevOps]
 formação:  ADS — Descomplica Digital
 contato:   rubemvn17@gmail.com
 ```
